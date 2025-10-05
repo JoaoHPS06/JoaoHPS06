@@ -1,4 +1,4 @@
-### Hi, I'm João Henrique! 👋
+### Hi, I'm João Henrique Pedrosa! 👋
 
 🎓 I'm a Computer Science undergraduate student (6th semester) at UFOP, passionate about Software Engineering, Artificial Intelligence, and Data Science.
 
