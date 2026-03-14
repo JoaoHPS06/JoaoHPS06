@@ -35,10 +35,10 @@ I'm a **Computer Science undergraduate** (7th semester) at **UFOP – Federal Un
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | 🤖 **[LinguaCoach](https://github.com/JoaoHPS06/LinguaCoach)** | AI language learning assistant with conversation practice, grammar feedback and vocabulary tracking | `Python` `Streamlit` `Gemini API` `Anthropic API` |
-| 🔄 **[SyncStore](https://github.com/JoaoHPS06/University-Projects/tree/main/SyncStore)** | Distributed system with Ricart-Agrawala mutual exclusion, Primary-Backup replication, fault detection and leader election | `Python` `Docker` `Sockets` `Threads` |
+| 🔄 **[SyncStore](https://github.com/JoaoHPS06/SyncStore)** | Distributed system with Ricart-Agrawala mutual exclusion, Primary-Backup replication, fault detection and leader election | `Python` `Docker` `Sockets` `Threads` |
 | 🛠️ **[Backend Task API](https://github.com/JoaoHPS06/Backend_Task_API)** | Full REST API with dual database (SQL + NoSQL), JWT auth, automated tests and containerization | `Flask` `PostgreSQL` `MongoDB` `Pytest` `Docker` |
-| 🎓 **[ExtraClasse](https://github.com/JoaoHPS06/University-Projects/tree/main/ExtraClasse)** | Full-stack platform connecting students with extracurricular activities at the university | `React` `TypeScript` `Django` `Python` |
-| 🌐 **[MyFTP](https://github.com/JoaoHPS06/University-Projects/tree/main/MyFTP)** | Custom FTP protocol over UDP with reliable data transfer and multithreading | `Python` `Sockets` `Threads` |
+| 🎓 **[ExtraClasse](https://github.com/JoaoHPS06/ExtraClasse)** | Full-stack platform connecting students with extracurricular activities at the university | `React` `TypeScript` `Django` `Python` |
+| 🌐 **[MyFTP](https://github.com/JoaoHPS06/MyFTP)** | Custom FTP protocol over UDP with reliable data transfer and multithreading | `Python` `Sockets` `Threads` |
 
 ➡️ More at **[University-Projects](https://github.com/JoaoHPS06/University-Projects)**
 
