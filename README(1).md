@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jo%C3%A3o+Henrique+%F0%9F%91%8B;AR+%2B+AI+Researcher+%40+UFOP;Building+LLM+apps+%26+distributed+systems;Open+to+internship+%26+junior+roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jo%C3%A3o+Henrique+Pedrosa+%F0%9F%91%8B;AR+%2B+AI+Researcher+%40+UFOP;Building+LLM+apps+%26+distributed+systems;Open+to+internship+%26+junior+roles" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-henrique-pedrosa-487263296/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao.2014@hotmail.com.br)
-![Profile Views](https://komarev.com/ghpvc/?username=JoaoHPS06&style=for-the-badge&color=6EE7B7&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaohenriquepedrosa)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaohps.2020@gmail.com)
 
 </div>
 
