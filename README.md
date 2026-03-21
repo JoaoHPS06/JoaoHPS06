@@ -38,6 +38,7 @@ I'm a **Computer Science undergraduate** (7th semester) at **UFOP – Federal Un
 | 🔄 **[SyncStore](https://github.com/JoaoHPS06/SyncStore)** | Distributed system with Ricart-Agrawala mutual exclusion, Primary-Backup replication, fault detection and leader election | `Python` `Docker` `Sockets` `Threads` |
 | 🛠️ **[Backend Task API](https://github.com/JoaoHPS06/Backend_Task_API)** | Full REST API with dual database (SQL + NoSQL), JWT auth, automated tests and containerization | `Flask` `PostgreSQL` `MongoDB` `Pytest` `Docker` |
 | 🎓 **[ExtraClasse](https://github.com/JoaoHPS06/ExtraClasse)** | Full-stack platform connecting students with extracurricular activities at the university | `React` `TypeScript` `Django` `Python` |
+| 🗄️ **[Academic Project Management](https://github.com/JoaoHPS06/University-Projects/tree/main/GerenciamentoDados)** | Project management system for academic research, tutoring and extension programs with user registration, vacancy management and report generation | `Python` `SQL` `PostgreSQL` |
 | 🌐 **[MyFTP](https://github.com/JoaoHPS06/MyFTP)** | Custom FTP protocol over UDP with reliable data transfer and multithreading | `Python` `Sockets` `Threads` |
 
 ➡️ More at **[University-Projects](https://github.com/JoaoHPS06/University-Projects)**
