@@ -40,6 +40,7 @@ I'm a **Computer Science undergraduate** (7th semester) at **UFOP – Federal Un
 | 🎓 **[ExtraClasse](https://github.com/JoaoHPS06/ExtraClasse)** | Full-stack platform connecting students with extracurricular activities at the university | `React` `TypeScript` `Django` `Python` |
 | 🗄️ **[Academic Project Management](https://github.com/JoaoHPS06/University-Projects/tree/main/GerenciamentoDados)** | Project management system for academic research, tutoring and extension programs with user registration, vacancy management and report generation | `Python` `SQL` `PostgreSQL` |
 | 🌐 **[MyFTP](https://github.com/JoaoHPS06/MyFTP)** | Custom FTP protocol over UDP with reliable data transfer and multithreading | `Python` `Sockets` `Threads` |
+| 🏪 **[Panelinhas.com](https://github.com/JoaoHPS06/Panelinhas.com)** | Community platform for local stores — discover, follow, review and interact with businesses | `React` `TypeScript` `Tailwind CSS` `Django` `SQLite` |
 
 ➡️ More at **[University-Projects](https://github.com/JoaoHPS06/University-Projects)**
 
@@ -50,15 +51,12 @@ I'm a **Computer Science undergraduate** (7th semester) at **UFOP – Federal Un
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **AI / ML**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Anthropic](https://img.shields.io/badge/Anthropic_API-191919?style=for-the-badge&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
@@ -67,6 +65,12 @@ I'm a **Computer Science undergraduate** (7th semester) at **UFOP – Federal Un
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Databases & Infra**
 
