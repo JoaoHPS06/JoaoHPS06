@@ -34,7 +34,7 @@ I'm a **Computer Science undergraduate** (7th semester) at **UFOP – Federal Un
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| 🔬 **[Cell Segmentation Benchmark](https://github.com/JoaoHPS06/cell-segmentation-sam-benchmark)** | Comparative evaluation of SAM 1, Cellpose-SAM and CellSAM for zero-shot cell instance segmentation on biomedical images, with IoU/Dice/Boundary IoU metrics — co-authored research paper (IEEE format) | `Python` `PyTorch` `SAM` `Cellpose` `CellSAM` |
+| 🔬 **[Cell Segmentation Benchmark](https://github.com/JoaoHPS06/Cell-Segmentation-Benchmark)** | Comparative evaluation of SAM 1, Cellpose-SAM and CellSAM for zero-shot cell instance segmentation on biomedical images, with IoU/Dice/Boundary IoU metrics — co-authored research paper (IEEE format) | `Python` `PyTorch` `SAM` `Cellpose` `CellSAM` |
 | 🤖 **[LinguaCoach](https://github.com/JoaoHPS06/LinguaCoach)** | Personal project: AI-powered language coaching assistant with grammar correction, CEFR-level estimation and structured JSON feedback | `Python` `Streamlit` `Gemini API` |
 | 🔄 **[SyncStore](https://github.com/JoaoHPS06/SyncStore)** | Distributed key-value store with Ricart-Agrawala mutual exclusion, Primary-Backup replication, automatic fault detection and leader election across 15 Docker containers | `Python` `Docker` `Sockets` `Threads` |
 | 🛠️ **[Backend Task API](https://github.com/JoaoHPS06/Backend_Task_API)** | Two REST API implementations for task management — Flask + PostgreSQL and FastAPI + MongoDB — with JWT auth, async processing and full test coverage | `Flask` `FastAPI` `PostgreSQL` `MongoDB` `Docker` `Pytest` |
